@@ -1,0 +1,2 @@
+# learnhaskell
+Haskell practice codes
